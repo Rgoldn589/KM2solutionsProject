@@ -1,1 +1,1 @@
-both projects are based on the KM2Solutions requirements, the 
+both projects are based on the KM2Solutions requirements, the Km2SolutionsEmployeeTestData is strickly uses test data with no database links.
