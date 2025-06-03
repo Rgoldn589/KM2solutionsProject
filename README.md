@@ -1,1 +1,1 @@
-both projects are based on the KM2Solutions requirements, the Km2SolutionsEmployeeTestData is strickly uses test data with no database links. the other files have a .bak file for restoring to sqlserver.
+both projects are based on the KM2Solutions requirements, the Km2SolutionsEmployeeTestData uses test data with no database links. the other files have will need the Bak file downloaded or the .SQL file, which will then need to be run in SQL Server
